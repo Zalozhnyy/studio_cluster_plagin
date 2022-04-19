@@ -1,0 +1,7 @@
+{
+  "id": "cluster",
+  "name": "Cluster Editor",
+  "longname": "Cluster Editor Plugin",
+  "version": "1.0",
+  "dependencies": []
+}

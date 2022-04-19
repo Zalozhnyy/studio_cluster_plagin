@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/cluster">
+        <file>images/command-line.png</file>
+        <file>images/black_dot.jpg</file>
+    </qresource>
+</RCC>
